@@ -1,0 +1,21 @@
+<?php
+//Database connection
+require_once 'CSE391Project/init.php'
+
+// All artilces
+?>
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>init</title>
+</head>
+<body>
+
+
+
+
+
+
+</body>
+</html>
